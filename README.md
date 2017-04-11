@@ -1,5 +1,5 @@
 # User-Contributed-Plugins
-This is the main plugin repo for the Discord bot (Hara)[https://github.com/HaraBot/Hara].
+This is the main plugin repo for the Discord bot [Hara](https://github.com/HaraBot/Hara).
 
 The purpose of this repository is to collate official and non-official plugins into one place for searching and grouping.
 
