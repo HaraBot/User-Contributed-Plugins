@@ -1,0 +1,17 @@
+#
+# Required keys. Without them, your plugin will not be enabled.
+#
+
+# The name of your plugin.
+name: "Suggestions"
+
+# If you want to link your github, use github/YOURNAME and the plugin embed will link to your account.
+# Otherwise, any name will be accepted.
+author: "github/PiggyPiglet"
+
+# The version standard that I prefer is main.min.min. You're welcome to use other formats, but a standard make everything flow.
+version: "1.0.0"
+
+description: "A suggestion plugin for lukkit 2.0"
+
+link: "https://www.piggypiglet.me"
