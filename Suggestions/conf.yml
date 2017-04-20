@@ -12,6 +12,6 @@ author: "github/PiggyPiglet"
 # The version standard that I prefer is main.min.min. You're welcome to use other formats, but a standard make everything flow.
 version: "1.0.0"
 
-description: "A suggestion plugin for lukkit 2.0"
+description: "A plugin that saves user suggestions to file."
 
 link: "https://www.piggypiglet.me"
